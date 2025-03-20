@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @BenjaminDesigns, a Graphic Designer from Chile.
-- 👀 I’m interested in Graphic and Front-End Design.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 😄 Pronouns: he/him
-- 🐈 Fun fact: I love kittens!
+- 👋 Hola, soy @BenjaminDesigns, diseñador gráfico.
+- 👀 Me interesa mucho el branding y la programación.
+- 🌱 Actualmente estoy haciendo un curso de desarrollo Front-End!
+- 🐈 Fun fact: Amo a los gatos!!!
 
 <!---
 I'm also learning how GitHub works!
